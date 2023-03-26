@@ -59,7 +59,7 @@ The robot communicate with the server by using [Firebase](https://firebase.googl
 
 ## Installation 
 
-Download pretrained models: [VGG16](), [Unet](). Then, change the **CLASSIFY_MODEL_NAME** and **SEGMENT_MODEL_NAME** in utils/config.py.
+Download pretrained models: [VGG16](https://drive.google.com/file/d/1eXHlv89tWVdCLvAeGVdyIixCb0KxdwpC/view?usp=share_link), [Unet](https://drive.google.com/file/d/119L_euU7Z4pPBJrcZiEr_EY9Gk3nFAzf/view?usp=share_link). Then, change the **CLASSIFY_MODEL_NAME** and **SEGMENT_MODEL_NAME** in utils/config.py.
 
 ```
 - Clone this repository
