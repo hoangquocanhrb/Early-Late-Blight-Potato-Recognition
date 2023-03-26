@@ -6,6 +6,8 @@ This project aims at building a diseases identification system to recognize earl
 
 Potato is one of the popular foods of Vietnamese people and some countries in the world. As with other food crops, diseases can seriously affect the yield and quality of the harvest. Therefore, in addition to disease prevention, early detection of diseases on plants can somewhat reduce the impact of diseases and farmers can offer timely solutions. 
 
+<img class="image-align-left" src="images/early2.jpeg"/><img class="image-align-left" src="images/late2.jpeg"/>
+
 In this projects, I built disease identification software system based on potato leaf images using deep learning network and a mobile robot system. There are 2 deep learning models were used: **VGG16** (classify the diseases) and **UNet** (remove background).
 
 ## Prepare data
