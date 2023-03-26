@@ -27,7 +27,9 @@ These both models was trained on Google Colab with a virtual computer that has t
 
 **1. Segmentation**
 
+<p align="center">
 <img class="center" src="images/log/train_loss_seg.png" title="Train loss segment" width="300" height="260"/><img class="center" src="images/log/val_loss_seg.png" title="Val loss segment" width="300" height="260"/>
+</p>
 
 **Classification**
 
@@ -48,6 +50,10 @@ The software is designed to include 3 main tasks: displaying leaf images were ph
 ## Communication
 
 The robot communicate with the server by using [Firebase](https://firebase.google.com/).
+
+<p align="center">
+    <img src="images/sodotong2.drawio.png" title="communicate" />
+</p>
 
 ## Installation 
 
