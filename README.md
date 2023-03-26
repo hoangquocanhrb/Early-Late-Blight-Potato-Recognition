@@ -27,7 +27,7 @@ These both models was trained on Google Colab with a virtual computer that has t
 
 **1. Segmentation**
 
-<img class="image-align-center" src="images/log/train_loss_seg.png" title="Train loss segment"/><img class="image-align-center" src="images/log/val_loss_seg.jpeg" title="Val loss segment"/>
+<img class="image-align-center" src="images/log/train_loss_seg.png" title="Train loss segment" width="100" height="100"/><img class="image-align-center" src="images/log/val_loss_seg.jpeg" title="Val loss segment" width="100" height="100"/>
 
 ## UI design
 
