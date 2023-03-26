@@ -27,11 +27,17 @@ These both models was trained on Google Colab with a virtual computer that has t
 
 **1. Segmentation**
 
-<img class="image-align-center" src="images/log/train_loss_seg.png" alt="Train loss segment" title="Train loss segment" width="300" height="260"/><img class="image-align-center" src="images/log/val_loss_seg.png" title="Val loss segment" width="300" height="260"/>
+<img class="center" src="images/log/train_loss_seg.png" title="Train loss segment" width="300" height="260"/><img class="center" src="images/log/val_loss_seg.png" title="Val loss segment" width="300" height="260"/>
+
+**Classification**
+
+<img class="center" src="images/log/train_acc.png" title="Train acc classify" width="300" height="260"/><img class="enter" src="images/log/val_acc.png" title="Val acc classify" width="300" height="260"/>
 
 ## UI design
 
 Besides, the user interface was created for easy to deploy these both models and control the robot from the long distance. Here, the project uses the PyQt5 open source library combined with the software Qt5 Designer. The PyQt5 library supports the Python language, which pairs well with the model predict the disease of potato leaves, because of the ease of access and use that PyQt5 and Qt5 Designer is selected. 
+
+<img class="center" src="images/ui.png" title="UI" width="350" height="260"/>
 
 The software is designed to include 3 main tasks: displaying leaf images were photographed and showed leaf disease status, time and disease of the leaves captured during robot operation and control movement of the remote robot.
 
