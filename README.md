@@ -20,7 +20,6 @@ The dataset for this project was collect from [Kaggle](https://www.kaggle.com/da
 
 The copy of the above dataset was annotated and add background for segmentation phase. I use [Labelme](https://github.com/wkentaro/labelme) in this project.
 
-To prepare the data, I recommend to create data/Train and data/Test folders in a location separate from your code folder. Then create the following structure as in the image below:
 
 ## Training
 
@@ -28,6 +27,7 @@ These both models was trained on Google Colab with a virtual computer that has t
 
 **1. Segmentation**
 
+<img class="image-align-center" src="images/log/train_loss_seg.png" title="Train loss segment"/><img class="image-align-center" src="images/log/val_loss_seg.jpeg" title="Val loss segment"/>
 
 ## UI design
 
