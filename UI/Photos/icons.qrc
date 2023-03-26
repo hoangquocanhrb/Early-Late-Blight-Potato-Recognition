@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Icon/right_arrow.png</file>
+    <file>Icon/left_arrow.png</file>
+    <file>Icon/history-icon-png-4665.png</file>
+    <file>Icon/back_arrow.png</file>
+    <file>Icon/up-arrow-png-27168.png</file>
+    <file>Icon/controller-icon-32409.png</file>
+    <file>Icon/menu-icon-19349.png</file>
+    <file>Icon/account-icon-25499.png</file>
+    <file>Icon/homepage-icon-png-2574.png</file>
+    <file>Icon/settings-icon-14973.png</file>
+    <file>Icon/full-screen-icon-11769.png</file>
+    <file>Icon/full-screen-icon-11786.png</file>
+    <file>Icon/menu-icon-19350.png</file>
+    <file>Icon/close-button-png-30241.png</file>
+    <file>Icon/minimize-icon-23774.png</file>
+    <file>Icon/restore-icon-12278.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+numpy
+imutils
+glob2
+matplotlib
+opencv-python
+pillow
+pyqt5
+pyrebase4
+pyserial
+pyyaml
+torch
+torchvision
