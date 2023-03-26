@@ -70,8 +70,8 @@ Download pretrained models: [VGG16](), [Unet](). Then, change the **CLASSIFY_MOD
 ## Some results
 
 <p align="center">
-    <img src="images/final_result.jpg" title="result" />'
+    <img src="images/final_result.jpg" title="result" width="400" height="400"/>'
 </p>
 
-From left to right: origin, predict, postprocess, ground truth.
+From left to right: origin, predict, postprocess, ground truth. You can clink to this [Link](https://drive.google.com/file/d/1-chrMg0BcxSLy6u7LvYg06iPEMBUJyYM/view?usp=share_link) for the demo video.
 
